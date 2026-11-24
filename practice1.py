@@ -1,1 +1,1 @@
-# this is entry from line 1
+# this is the line from mac mini 1
