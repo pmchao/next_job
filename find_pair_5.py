@@ -30,6 +30,7 @@ def main():
     print("Original list:", numbers)
     print("Target sum:", target)
     print("Pairs found:", result)
+    print("End of program")
 
 
 if __name__ == "__main__":
